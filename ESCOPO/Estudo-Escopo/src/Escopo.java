@@ -2,13 +2,13 @@
 //!     escopo pode ser entendido como o ambiente onde uma variável pode ser acessada.
 //!     Em java,o escopo de variáveis vai de acordo com o bloco onde ela foi declarada.
 //?Através do conceito de ESCOPO que conseguimos ter uma estrutura mais adequada das nossas imprementações.
-/**
- * *O objetivo é identificar a localização mais conveniente para a escrita de algoritmos
- * *necessários para o nosso programa.
- * !Tipos de escopo:
- * ?    -Escopo de classes;
- * ?    -Escopo de método;
- * ?    -Escopo de fluxo;
+/*
+  *O objetivo é identificar a localização mais conveniente para a escrita de algoritmos
+  *necessários para o nosso programa.
+  !Tipos de escopo:
+  ?    -Escopo de classes;
+  ?    -Escopo de método;
+  ?    -Escopo de fluxo;
  */
 //!Exemplo prático:
 
